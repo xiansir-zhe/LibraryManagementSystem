@@ -1,0 +1,2 @@
+# Library_Management_System
+同时为了完成学校数据库课程的课程设计，主要运用了netBeans、JFrame和mysql等技术。完成了UI设计与前后端交互代码编写，完成了图书馆管理系统的CURD。
